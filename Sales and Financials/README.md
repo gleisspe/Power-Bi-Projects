@@ -1,4 +1,4 @@
-# Gleisson Leonardo 
+# Dashboard Sales and Financials
 
 This project will show to you, a dashboard about sales and financials considering sales and profits for all countries that we have data. 
 
